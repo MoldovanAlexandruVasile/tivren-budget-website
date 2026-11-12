@@ -10,11 +10,11 @@
     "sections": [
       {
         "title": "1. Cine suntem",
-        "body": "Casita este oferită de [Denumirea companiei], înregistrată în România (CUI [RO00000000]), [adresă]. Contact: [email suport]. Folosind aplicația, accepți acești Termeni."
+        "body": "Tivren Budget este oferit de [Denumirea companiei], înregistrată în România (CUI [RO00000000]), [adresă]. Contact: [email suport]. Folosind aplicația, accepți acești Termeni."
       },
       {
         "title": "2. Serviciul",
-        "body": "Casita este un instrument de buget personal pentru venituri, cheltuieli, limite, comercianți și seifuri de economii.\n\n• Nu oferă consultanță financiară, fiscală sau juridică.\n• Tu introduci datele; noi nu le verificăm.\n• Aplicația nu se conectează la banca ta și nu mută bani."
+        "body": "Tivren Budget este un instrument de buget personal pentru venituri, cheltuieli, limite, comercianți și seifuri de economii.\n\n• Nu oferă consultanță financiară, fiscală sau juridică.\n• Tu introduci datele; noi nu le verificăm.\n• Aplicația nu se conectează la banca ta și nu mută bani."
       },
       {
         "title": "3. Conturi",
@@ -25,12 +25,12 @@
         "body": "Conturile gratuite pot avea cel mult 8 categorii, 3 seifuri și 30 de comercianți, cu analize lunare. Dacă reducem limitele, păstrezi ce ai deja."
       },
       {
-        "title": "5. Casita Pro",
+        "title": "5. Tivren Pro",
         "body": "Anual 39,99 €/an (7 zile gratuite), Lunar 4,99 €/lună sau Pe viață 119,99 € o singură dată. Prețurile includ TVA; în alte țări, prețurile sunt stabilite de Apple sau Google.\n\n• Plata se face prin App Store sau Google Play.\n• Abonamentele se reînnoiesc automat, dacă nu le anulezi cu cel puțin 24 de ore înainte de finalul perioadei.\n• Anulezi din setările de abonamente ale magazinului. Păstrezi Pro până la finalul perioadei plătite."
       },
       {
         "title": "6. Retragere și rambursări",
-        "body": "Casita Pro pornește imediat după cumpărare. Ești de acord cu asta și iei la cunoștință că pierzi dreptul de retragere de 14 zile (OUG 34/2014, art. 16 lit. m). Rambursările pentru achizițiile din magazin sunt gestionate de Apple sau Google."
+        "body": "Tivren Pro pornește imediat după cumpărare. Ești de acord cu asta și iei la cunoștință că pierzi dreptul de retragere de 14 zile (OUG 34/2014, art. 16 lit. m). Rambursările pentru achizițiile din magazin sunt gestionate de Apple sau Google."
       },
       {
         "title": "7. Utilizare acceptabilă",
@@ -59,7 +59,7 @@
       },
       {
         "title": "2. Ce prelucrăm",
-        "body": "• Datele de buget (venituri, cheltuieli, categorii, comercianți, seifuri), ca să funcționeze aplicația.\n• Datele contului: nume, email și ID de cont, de la conectarea cu Google, Apple sau email; cu Google, și fotografia de profil; cu email, parola, care nu e niciodată stocată în formă lizibilă. Le folosim ca să te conectăm și să-ți sincronizăm datele.\n• Tokenurile de conectare, păstrate în spațiul securizat al telefonului (Keychain / Keystore), ca să rămâi conectat.\n• Starea achiziției, pentru deblocarea Casita Pro.\n• Setările și opțiunile de notificare.\n\nNu colectăm locația, contactele, fotografiile, datele de acces bancar sau ID-uri de publicitate. Verificările Face ID și amprentă rămân pe dispozitiv."
+        "body": "• Datele de buget (venituri, cheltuieli, categorii, comercianți, seifuri), ca să funcționeze aplicația.\n• Datele contului: nume, email și ID de cont, de la conectarea cu Google, Apple sau email; cu Google, și fotografia de profil; cu email, parola, care nu e niciodată stocată în formă lizibilă. Le folosim ca să te conectăm și să-ți sincronizăm datele.\n• Tokenurile de conectare, păstrate în spațiul securizat al telefonului (Keychain / Keystore), ca să rămâi conectat.\n• Starea achiziției, pentru deblocarea Tivren Pro.\n• Setările și opțiunile de notificare.\n\nNu colectăm locația, contactele, fotografiile, datele de acces bancar sau ID-uri de publicitate. Verificările Face ID și amprentă rămân pe dispozitiv."
       },
       {
         "title": "3. Unde sunt stocate",
@@ -83,7 +83,7 @@
       },
       {
         "title": "8. Copii și modificări",
-        "body": "Casita nu este destinată copiilor sub 16 ani. Te anunțăm în aplicație înainte de modificări importante ale acestei politici."
+        "body": "Tivren Budget nu este destinat copiilor sub 16 ani. Te anunțăm în aplicație înainte de modificări importante ale acestei politici."
       }
     ]
   }

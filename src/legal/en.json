@@ -10,11 +10,11 @@
     "sections": [
       {
         "title": "1. Who we are",
-        "body": "Casita is provided by [Company legal name], registered in Romania (CUI [RO00000000]), [address]. Contact: [support email]. By using the app you accept these Terms."
+        "body": "Tivren Budget is provided by [Company legal name], registered in Romania (CUI [RO00000000]), [address]. Contact: [support email]. By using the app you accept these Terms."
       },
       {
         "title": "2. The service",
-        "body": "Casita is a personal budgeting tool for recording income, spendings, caps, merchants and savings vaults.\n\n• It is not financial, tax or legal advice.\n• You enter the data; we do not check it.\n• The app does not connect to your bank or move money."
+        "body": "Tivren Budget is a personal budgeting tool for recording income, spendings, caps, merchants and savings vaults.\n\n• It is not financial, tax or legal advice.\n• You enter the data; we do not check it.\n• The app does not connect to your bank or move money."
       },
       {
         "title": "3. Accounts",
@@ -25,12 +25,12 @@
         "body": "Free accounts can have up to 8 categories, 3 vaults and 30 merchants, with monthly insights. If we lower the limits, you keep what you already have."
       },
       {
-        "title": "5. Casita Pro",
+        "title": "5. Tivren Pro",
         "body": "Annual €39.99/year (7-day free trial), Monthly €4.99/month, or Lifetime €119.99 once. Prices include VAT; other countries' prices are set by Apple or Google.\n\n• Payment is made through the App Store or Google Play.\n• Subscriptions renew automatically unless cancelled at least 24 hours before the period ends.\n• Cancel in your store's subscription settings. You keep Pro until the paid period ends."
       },
       {
         "title": "6. Withdrawal and refunds",
-        "body": "Casita Pro starts immediately after purchase. You agree to this and acknowledge that you lose the 14-day right of withdrawal (OUG 34/2014, art. 16 letter m). Refunds for store purchases are handled by Apple or Google."
+        "body": "Tivren Pro starts immediately after purchase. You agree to this and acknowledge that you lose the 14-day right of withdrawal (OUG 34/2014, art. 16 letter m). Refunds for store purchases are handled by Apple or Google."
       },
       {
         "title": "7. Acceptable use",
@@ -59,7 +59,7 @@
       },
       {
         "title": "2. What we process",
-        "body": "• Budget data (income, spendings, categories, merchants, vaults), to provide the app.\n• Account data: name, email and account ID, from Google, Apple or email sign-in; with Google, also your profile photo; with email, your password, which is never stored in readable form. Used to sign you in and sync your data.\n• Sign-in tokens, kept in your phone's secure storage (Keychain / Keystore) so you stay signed in.\n• Purchase status, to unlock Casita Pro.\n• Settings and notification choices.\n\nWe do not collect your location, contacts, photos, bank credentials or advertising IDs. Face ID and fingerprint checks stay on your device."
+        "body": "• Budget data (income, spendings, categories, merchants, vaults), to provide the app.\n• Account data: name, email and account ID, from Google, Apple or email sign-in; with Google, also your profile photo; with email, your password, which is never stored in readable form. Used to sign you in and sync your data.\n• Sign-in tokens, kept in your phone's secure storage (Keychain / Keystore) so you stay signed in.\n• Purchase status, to unlock Tivren Pro.\n• Settings and notification choices.\n\nWe do not collect your location, contacts, photos, bank credentials or advertising IDs. Face ID and fingerprint checks stay on your device."
       },
       {
         "title": "3. Where it is stored",
@@ -83,7 +83,7 @@
       },
       {
         "title": "8. Children and changes",
-        "body": "Casita is not meant for children under 16. We will tell you in the app before material changes to this policy."
+        "body": "Tivren Budget is not meant for children under 16. We will tell you in the app before material changes to this policy."
       }
     ]
   }

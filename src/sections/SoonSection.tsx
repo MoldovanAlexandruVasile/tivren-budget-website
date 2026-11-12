@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 import { StoreSoonRow } from "../components/StoreSoonRow";
 import { AppIcon } from "../components/ui/AppIcon";
 
-// The closing card: Casita is almost here (no download yet).
+// The closing card: Tivren Budget is almost here (no download yet).
 export const SoonSection = () => {
   const { t } = useTranslation();
   return (

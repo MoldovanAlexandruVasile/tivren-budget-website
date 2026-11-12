@@ -13,7 +13,7 @@ import { ScreensSection } from "../sections/ScreensSection";
 import { SoonSection } from "../sections/SoonSection";
 import { VideoSection } from "../sections/VideoSection";
 
-// Casita isn't out yet: the page presents it and says "coming soon",
+// Tivren Budget isn't out yet: the page presents it and says "coming soon",
 // with no download or store links anywhere.
 export const HomePage = () => {
   const { t } = useTranslation();

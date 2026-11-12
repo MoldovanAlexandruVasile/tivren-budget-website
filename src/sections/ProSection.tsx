@@ -6,7 +6,7 @@ type Perk = { title: string; text: string };
 // One per perk in the translations, in the same order.
 const PERK_ICONS = ["👨‍👩‍👧", "♾️", "🏦", "🧒", "🔍"];
 
-// Casita Pro: what's planned after launch, all marked "later".
+// Tivren Pro: what's planned after launch, all marked "later".
 export const ProSection = () => {
   const { t } = useTranslation();
   const perks = t("pro.items", { returnObjects: true }) as Perk[];

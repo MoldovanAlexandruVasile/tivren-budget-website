@@ -11,7 +11,7 @@ const HERE = path.dirname(fileURLToPath(import.meta.url));
 export const APP = path.resolve(process.env.CASITA_APP ?? path.join(HERE, "../../casita-react-native"));
 
 if (!fs.existsSync(path.join(APP, "src/theme/constants/color-tokens.ts"))) {
-  throw new Error(`Casita app not found at ${APP} (set CASITA_APP)`);
+  throw new Error(`Tivren Budget app not found at ${APP} (set CASITA_APP)`);
 }
 
 // The Hugeicons each screen draws (same names as in the app's code).

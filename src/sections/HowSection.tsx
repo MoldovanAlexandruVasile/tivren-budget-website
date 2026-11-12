@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 
 type Step = { title: string; text: string };
 
-// Plan → spend → look back: the month in Casita, in three cards.
+// Plan → spend → look back: the month in Tivren Budget, in three cards.
 export const HowSection = () => {
   const { t } = useTranslation();
   const steps = t("how.steps", { returnObjects: true }) as Step[];

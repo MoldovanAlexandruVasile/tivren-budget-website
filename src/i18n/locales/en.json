@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Casita · Household budget app, coming to iPhone and Android",
-    "privacyTitle": "Privacy Policy · Casita",
-    "termsTitle": "Terms and Conditions · Casita"
+    "title": "Tivren Budget · Household budget app, coming to iPhone and Android",
+    "privacyTitle": "Privacy Policy · Tivren Budget",
+    "termsTitle": "Terms and Conditions · Tivren Budget"
   },
   "nav": {
     "screens": "Screens",
     "features": "Features",
     "how": "How it works",
-    "pro": "Casita Pro",
+    "pro": "Tivren Pro",
     "faq": "FAQ",
     "language": "Language"
   },
@@ -16,11 +16,11 @@
     "pill": "Coming soon to iPhone and Android",
     "title": "Your household budget,",
     "titleAccent": "finally calm.",
-    "lead": "Plan each month in a few steps, give every euro a job, and watch your savings grow. Casita shows what's left to spend, warns you before a category runs over, and keeps the whole picture in one place.",
-    "appAlt": "Casita's home screen: the remaining budget for November, the income card, top categories with their caps and recent spendings"
+    "lead": "Plan each month in a few steps, give every euro a job, and watch your savings grow. Tivren Budget shows what's left to spend, warns you before a category runs over, and keeps the whole picture in one place.",
+    "appAlt": "Tivren Budget's home screen: the remaining budget for November, the income card, top categories with their caps and recent spendings"
   },
   "video": {
-    "label": "Casita in 30 seconds"
+    "label": "Tivren Budget in 30 seconds"
   },
   "screens": {
     "title": "A closer look",
@@ -78,7 +78,7 @@
       },
       {
         "title": "Spend",
-        "text": "Log spendings as they happen. Casita keeps the amount left to spend up to date, and tells you if you're running hot."
+        "text": "Log spendings as they happen. Tivren Budget keeps the amount left to spend up to date, and tells you if you're running hot."
       },
       {
         "title": "Look back",
@@ -87,8 +87,8 @@
     ]
   },
   "pro": {
-    "title": "Casita Pro, on the way",
-    "lead": "Casita is free to start. Later, Pro adds more for the whole household.",
+    "title": "Tivren Pro, on the way",
+    "lead": "Tivren Budget is free to start. Later, Pro adds more for the whole household.",
     "later": "Later",
     "items": [
       {
@@ -117,20 +117,20 @@
     "title": "Questions",
     "items": [
       {
-        "q": "When will Casita be available?",
-        "a": "Soon. Casita is in its final round of testing. It will come out on the App Store and Google Play, and this page will have the links on launch day."
+        "q": "When will Tivren Budget be available?",
+        "a": "Soon. Tivren Budget is in its final round of testing. It will come out on the App Store and Google Play, and this page will have the links on launch day."
       },
       {
         "q": "Will it be free?",
-        "a": "Yes, Casita is free to start, with everything you need for a monthly budget. Casita Pro, with more for households, comes later and is optional."
+        "a": "Yes, Tivren Budget is free to start, with everything you need for a monthly budget. Tivren Pro, with more for households, comes later and is optional."
       },
       {
         "q": "Do I need an account?",
-        "a": "No. You can use Casita as a guest and keep everything on your phone. If you sign in later with Google, Apple or email, Casita offers to move your data to your account."
+        "a": "No. You can use Tivren Budget as a guest and keep everything on your phone. If you sign in later with Google, Apple or email, Tivren Budget offers to move your data to your account."
       },
       {
-        "q": "Does Casita connect to my bank?",
-        "a": "Not at launch. You enter your income and spendings yourself, so Casita never sees your bank login. Bank sync is planned for Casita Pro."
+        "q": "Does Tivren Budget connect to my bank?",
+        "a": "Not at launch. You enter your income and spendings yourself, so Tivren Budget never sees your bank login. Bank sync is planned for Tivren Pro."
       },
       {
         "q": "Which languages and currencies?",
@@ -142,8 +142,8 @@
     "badge": "Coming soon",
     "short": "Coming soon",
     "storeLabel": "Coming soon to {{store}}",
-    "title": "Casita is almost here",
-    "text": "We're putting the finishing touches on it. Casita launches soon on the App Store and Google Play; check back here for the links."
+    "title": "Tivren Budget is almost here",
+    "text": "We're putting the finishing touches on it. Tivren Budget launches soon on the App Store and Google Play; check back here for the links."
   },
   "footer": {
     "note": "Coming soon to iPhone and Android.",
@@ -151,7 +151,7 @@
     "terms": "Terms"
   },
   "legal": {
-    "back": "← Back to Casita",
+    "back": "← Back to Tivren Budget",
     "privacy": "Privacy Policy",
     "terms": "Terms and Conditions"
   }

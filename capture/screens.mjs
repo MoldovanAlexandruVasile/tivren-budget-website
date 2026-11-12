@@ -1,4 +1,4 @@
-// Renders Casita's screens (screens.html, drawn from the app's own styles,
+// Renders Tivren Budget's screens (screens.html, drawn from the app's own styles,
 // colours, translations and icons) to raw/<lang>/<name>.png at the iPhone 17
 // Pro's resolution, 1206×2622. Demo data lives in screens.html.
 //   node screens.mjs [lang]     (en or ro; default en)

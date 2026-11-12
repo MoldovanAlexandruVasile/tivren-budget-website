@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 import { StoreSoonRow } from "../../components/StoreSoonRow";
 import { HeroTitle } from "./HeroTitle";
 
-// The hero's left column: what Casita is, and where it's coming.
+// The hero's left column: what Tivren Budget is, and where it's coming.
 export const HeroCopy = () => {
   const { t } = useTranslation();
   return (

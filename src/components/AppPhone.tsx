@@ -2,7 +2,7 @@ import { useTranslation } from "react-i18next";
 
 import { useMediaUrl } from "../hooks/useMediaUrl";
 
-// Casita's home screen on an iPhone, light or dark following the visitor's
+// Tivren Budget's home screen on an iPhone, light or dark following the visitor's
 // system, in the page's language. The screens come from capture/ (screens.mjs),
 // drawn from the app's own components, colours and texts.
 export const AppPhone = () => {

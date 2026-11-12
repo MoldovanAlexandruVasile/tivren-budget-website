@@ -1,9 +1,9 @@
-# Casita website
+# Tivren Budget website
 
-Presentation page for Casita, the household budgeting app for iPhone and
+Presentation page for Tivren Budget, the household budgeting app for iPhone and
 Android. For now it only announces the app as **coming soon**: no download or
 store links anywhere. React + TypeScript + Vite + Tailwind CSS v4, hosted on
-Netlify. Same setup as `tivren-website`.
+Netlify. Same setup as `tivren-timesheet-website`.
 
 ## Run
 
@@ -16,7 +16,7 @@ npm run lint
 
 ## Deploy
 
-Hosted on Netlify at https://casita-budget.netlify.app. Pushing to `main` builds and publishes the
+Hosted on Netlify at https://tivren-budget.netlify.app. Pushing to `main` builds and publishes the
 site (settings in `netlify.toml`). One-time setup in Netlify: import this repo,
 and under Site configuration → Environment variables add `NODE_AUTH_TOKEN` (a
 GitHub token with `read:packages`, marked secret, Builds scope) so npm can

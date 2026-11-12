@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Casita · Bugetul casei, liniștit. În curând pe iPhone și Android",
-    "privacyTitle": "Politica de confidențialitate · Casita",
-    "termsTitle": "Termeni și condiții · Casita"
+    "title": "Tivren Budget · Bugetul casei, liniștit. În curând pe iPhone și Android",
+    "privacyTitle": "Politica de confidențialitate · Tivren Budget",
+    "termsTitle": "Termeni și condiții · Tivren Budget"
   },
   "nav": {
     "screens": "Ecrane",
     "features": "Funcții",
     "how": "Cum funcționează",
-    "pro": "Casita Pro",
+    "pro": "Tivren Pro",
     "faq": "Întrebări",
     "language": "Limba"
   },
@@ -16,11 +16,11 @@
     "pill": "În curând pe iPhone și Android",
     "title": "Bugetul casei tale,",
     "titleAccent": "în sfârșit liniștit.",
-    "lead": "Planifică fiecare lună în câțiva pași, dă un rost fiecărui leu și vezi cum cresc economiile. Casita îți arată cât mai ai de cheltuit, te avertizează înainte ca o categorie să-și depășească limita și ține totul într-un singur loc.",
-    "appAlt": "Ecranul principal Casita: bugetul rămas pe noiembrie, cardul veniturilor, categoriile de top cu plafoanele lor și cheltuielile recente"
+    "lead": "Planifică fiecare lună în câțiva pași, dă un rost fiecărui leu și vezi cum cresc economiile. Tivren Budget îți arată cât mai ai de cheltuit, te avertizează înainte ca o categorie să-și depășească limita și ține totul într-un singur loc.",
+    "appAlt": "Ecranul principal Tivren Budget: bugetul rămas pe noiembrie, cardul veniturilor, categoriile de top cu plafoanele lor și cheltuielile recente"
   },
   "video": {
-    "label": "Casita în 30 de secunde"
+    "label": "Tivren Budget în 30 de secunde"
   },
   "screens": {
     "title": "Aruncă o privire",
@@ -78,7 +78,7 @@
       },
       {
         "title": "Cheltuiești",
-        "text": "Notezi cheltuielile pe loc. Casita ține la zi suma rămasă și îți spune dacă ritmul e prea alert."
+        "text": "Notezi cheltuielile pe loc. Tivren Budget ține la zi suma rămasă și îți spune dacă ritmul e prea alert."
       },
       {
         "title": "Tragi linie",
@@ -87,8 +87,8 @@
     ]
   },
   "pro": {
-    "title": "Casita Pro, pe drum",
-    "lead": "Casita e gratuită la început. Mai târziu, Pro aduce mai mult pentru toată familia.",
+    "title": "Tivren Pro, pe drum",
+    "lead": "Tivren Budget e gratuită la început. Mai târziu, Pro aduce mai mult pentru toată familia.",
     "later": "Mai târziu",
     "items": [
       {
@@ -117,20 +117,20 @@
     "title": "Întrebări",
     "items": [
       {
-        "q": "Când va fi disponibilă Casita?",
-        "a": "În curând. Casita e în ultima etapă de testare. Va apărea în App Store și Google Play, iar pagina aceasta va avea linkurile din ziua lansării."
+        "q": "Când va fi disponibilă Tivren Budget?",
+        "a": "În curând. Tivren Budget e în ultima etapă de testare. Va apărea în App Store și Google Play, iar pagina aceasta va avea linkurile din ziua lansării."
       },
       {
         "q": "Va fi gratuită?",
-        "a": "Da, Casita e gratuită la început, cu tot ce îți trebuie pentru un buget lunar. Casita Pro, cu mai multe pentru gospodărie, vine mai târziu și e opțional."
+        "a": "Da, Tivren Budget e gratuită la început, cu tot ce îți trebuie pentru un buget lunar. Tivren Pro, cu mai multe pentru gospodărie, vine mai târziu și e opțional."
       },
       {
         "q": "Am nevoie de cont?",
-        "a": "Nu. Poți folosi Casita ca invitat, cu totul pe telefon. Dacă te conectezi mai târziu cu Google, Apple sau email, Casita se oferă să-ți mute datele în cont."
+        "a": "Nu. Poți folosi Tivren Budget ca invitat, cu totul pe telefon. Dacă te conectezi mai târziu cu Google, Apple sau email, Tivren Budget se oferă să-ți mute datele în cont."
       },
       {
-        "q": "Se conectează Casita la banca mea?",
-        "a": "Nu la lansare. Introduci singur veniturile și cheltuielile, așa că Casita nu vede niciodată datele de acces la bancă. Sincronizarea bancară e planificată pentru Casita Pro."
+        "q": "Se conectează Tivren Budget la banca mea?",
+        "a": "Nu la lansare. Introduci singur veniturile și cheltuielile, așa că Tivren Budget nu vede niciodată datele de acces la bancă. Sincronizarea bancară e planificată pentru Tivren Pro."
       },
       {
         "q": "În ce limbi și monede?",
@@ -142,8 +142,8 @@
     "badge": "În curând",
     "short": "În curând",
     "storeLabel": "În curând în {{store}}",
-    "title": "Casita e aproape gata",
-    "text": "Îi dăm ultimele retușuri. Casita se lansează în curând în App Store și Google Play; revino aici pentru linkuri."
+    "title": "Tivren Budget e aproape gata",
+    "text": "Îi dăm ultimele retușuri. Tivren Budget se lansează în curând în App Store și Google Play; revino aici pentru linkuri."
   },
   "footer": {
     "note": "În curând pe iPhone și Android.",
@@ -151,7 +151,7 @@
     "terms": "Termeni"
   },
   "legal": {
-    "back": "← Înapoi la Casita",
+    "back": "← Înapoi la Tivren Budget",
     "privacy": "Politica de confidențialitate",
     "terms": "Termeni și condiții"
   }
